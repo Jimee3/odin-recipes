@@ -11,3 +11,4 @@ This project will be revisited later to add CSS.
 Credits: 
 Thin crust pizza image: https://www.flickr.com/photos/thrivingveg/
 Chicken Breast image: https://fergusonfarms.farm/ (full link:https://fergusonfarms.farm/recipes/chicken-breast-in-air-fryer-juicy-and-delicious)
+Burger image: https://www.flickr.com/photos/pointnshoot/416698521 
